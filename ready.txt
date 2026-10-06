@@ -1,0 +1,1 @@
+LEGO Batman LAN Probe v0.3 WIDE ready. RAM 08B00000-092FFFFF.
